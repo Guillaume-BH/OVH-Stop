@@ -1,0 +1,6 @@
+name: Reloaded-OVH-Stop
+version: "${project.version}"
+main: fr.reloaded.ovh.OVHStop
+author: Lastril
+website: "https://discord.gg/w5YE4Adc77"
+description: "${project.description}"
